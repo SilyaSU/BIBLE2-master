@@ -1,0 +1,15 @@
+.error {
+    color: red;
+}
+
+div {
+  margin: 20px;
+}
+
+.ant-form-item {
+  margin-bottom: 16px;
+}
+
+button {
+  margin-top: 16px;
+}
